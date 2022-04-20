@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "atomic": "c",
+        "algorithm": "c",
+        "piper.h": "c"
+    }
+}
